@@ -1,0 +1,52 @@
+{{ define "title"}} {{ .Site.Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+
+<div id="main">
+  <div id="hero">
+    <figure>
+        <img alt="HERLogo" height = "500" src="{{ "/img/kube/HERLogoToo.jpg" | relURL }}" width = "600">
+    </figure>  
+    <h1>{{.Title}}</h1>
+    <p>{{.Description}}</p>
+  </div>
+   <div id="action-buttons">
+       <a class="button primary big" href="https://bit.ly/2TKAtzD" onclick="_gaq.push(['_trackEvent', 'kube', 'download']);">HER Map: San Antonio</a> <a class="button primary big" href=" https://bit.ly/2Y7biWt" onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">HER Map: Women Veteran Groups and Advocates </a> <a class="button primary big" href=" https://usg.maps.arcgis.com/apps/MapSeries/index.html?appid=289ad580efec4a9d86e3aefef1ebcdea" onclick="_gaq.push(['_trackEvent', 'kube', 'github']);"> HER Story Map</a>
+    <p>HER Map: San Antonio shows health and educational resources for women veterans in San Antonio, while HER Map: Women Veteran Groups and Advocates is a nationwide listing of women veteran groups, advocates, and women veteran state coordinators. HER Story Map shows the results of research done on spatial accessibility of women veterans to Women's Health providers.</p>
+  </div>    
+
+  <div id="kube-features">
+        <div class="row gutters">
+      <div class="col col-4 item">
+        <h4>Interactive Mapping Interface</h4>
+        <p>HER Map provides a clear mapping interface in which users can easily see and filter the type resources relevant to their needs.</p>
+      </div>
+      <div class="col col-4 item">
+        <h4>Cross-Browser</h4>
+        <p>HER Map works in both desktop and on mobile browsers.</p>
+      </div>
+      <div class="col col-4 item">
+        <h4>Cross-platform</h4>
+        <p>Coming soon! The HER Map app will be available for both Android and iOS devices.</p>
+      </div>
+    </div>
+      <div class = "row gutters">
+          <div class="col col-4 item">
+          <h4>Feedback</h4>
+          <p>User experience survey coming out soon! I will use your feedback to make improvements on HER Map. You can also <a href mailto: das55839@uga.edu>e-mail</a> me your feedback.</p>
+          </div>
+          <div class = "col col-4 item">
+            <h4>Website License</h4>
+            <p>Kube licensed under <a href="https://opensource.org/licenses/MIT">MIT</a>.<br>
+                Kube Framework is absolutely free for personal or commercial use.</p>
+          </div>
+          <div class = "col col-4 item">
+          <h4>Logos</h4>
+            <p>Logos created by <a href = "https://cxavier.weebly.com/">Xavier Studios</a></p>
+          </div>
+      </div>
+      
+</div>
+
+{{ end }}
+{{ define "footer"}} {{ partial "footer" .}} {{end}}

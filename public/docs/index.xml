@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on HER Map</title>
+    <link>/docs/</link>
+    <description>Recent content in Docs on HER Map</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/docs/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/about/</guid>
+      <description>Overview Currently, HER Map is comprised of three components; HER Map: San Antonio, HER Map: Women Veteran Groups and Advocates, and HER Story Map. HER Maps are currently in prototype stage and are available online. There will be a mobile app version of HER Map coming soon which will be available in both the Google Play store and the Apple app store.
+The goal of HER Map is to have nationwide coverage of health and educational resources that are relevant to women veterans.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>/docs/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/features/</guid>
+      <description>HER Map Features Customized Filters Users can filter information on the map that is important to them. The type of filters that were created were based on interviews with women veterans about the type of health and educational resources that would be important to them.
+Pop-ups Users can click on the feature that they are interested in and see basic information about that provider or organization.
+Attribute Table  An attribute table is available in which one can easily see all the information.</description>
+    </item>
+    
+    <item>
+      <title>Important Information</title>
+      <link>/docs/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/info/</guid>
+      <description>Sources HER Map: San Antonio  This app contains information about Women&amp;rsquo;s Health providers. Data about the providers were collected on the Texas Medical Board website, Humana TRICARE site, and on the sites of the individual providers and clinics. The combined internet rating was based on taking a weighted average from the star ratings off of Google, ZocDoc, HealthGrades, Vitals, and WebMD. This app also has information about non-profits and educational programs that could be useful for women veterans.</description>
+    </item>
+    
+  </channel>
+</rss>

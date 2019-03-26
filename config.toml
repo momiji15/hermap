@@ -1,0 +1,25 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "HER Map"
+theme = "kube"
+description = "Health and Educational Resources for Women Veterans"
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "Dorris Scott" # add your company name
+  github = "https://github.com/momiji15" # add your github profile name
+  twitter = "https://twitter.com/Dorris_Scott" # add your twitter profile
+  email = "dorris.scott25@uga.edu"
+
+[[menu.main]]
+    name = "Docs"
+    weight = -100
+    url = "/docs/"
+[[menu.main]]
+    name = "Blog"
+    weight = -100
+    url = "/blog/"
+[[menu.main]]
+    name = "FAQ"
+    weight = -100
+    url = "/faq/"
