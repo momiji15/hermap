@@ -8,13 +8,13 @@ toc = false
 +++
 
 <figure>
-  <img alt="Image" height="600" align = "middle" src="/img/kube/HERLogo600x600.jpg" width="600">
+  <img alt="Image" height="400" align = "middle" src="/img/kube/HERLogo600x600.jpg" width="400">
 </figure>
 
 <h3>Overview</h3>
 <p>Currently, HER Map is comprised of three components; <a href = "https://bit.ly/2TKAtzD">HER Map: San Antonio</a>, <a href = "https://bit.ly/2Y7biWt">HER Map: Women Veteran Groups and Advocates</a>, and <a href = "https://usg.maps.arcgis.com/apps/MapSeries/index.html?appid=289ad580efec4a9d86e3aefef1ebcdea">HER Story Map</a>.  HER Maps are currently in prototype stage and are available online. There will be a mobile app version of HER Map coming soon which will be available in both the Google Play store and the Apple app store.</p>
 
-<p>The goal of HER Map is to have nationwide coverage of health and educational resources that are relevant to women veterans. If you are a women veteran stakeholder or organization that is interested in having a HER Map for your area, please don't hesistate to <a href = "mailto:das55839@uga.edu">contact me</a>.</p>
+<p>The goal of HER Map is to have nationwide coverage of health and educational resources that are relevant to women veterans. If you are a women veteran stakeholder or organization that is interested in having a HER Map for your area, please don't hesistate to <a href = "mailto:das55839@uga.edu">contact me</a>. If you are interested in having yourself or your organization added to HER Map, then you can fill out <a href = "https://forms.gle/xrBRzLFRzDLVbvuh7" target = "_blank">this form</a>.</p>
 
 <h3>HER Map: San Antonio </h3>
 <p>HER Map is a compilation of health and educational resources that is relevant for women veterans in San Antonio. This app contains information about Women's Health providers. This app also has information about non-profits and educational programs that could be useful for women veterans. Not all non-profits are women veteran specific, but could be useful to women veterans.</p>

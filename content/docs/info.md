@@ -17,6 +17,8 @@ Information about the state coordinators was collected from the National Associa
 <h2>Disclaimer</h2>
 <p>Information may not be current or accurate; information might have been updated since the date of data retrieval and the accuracy of data obtained from the organization's, individual's or provider's websites cannot be verified. If you have specific questions, please contact the individual or organization directly. If you spot an error in the information about a provider or organization, please contact us and we will look into the matter. Any provider with a rating of 0.00 indicates that there are no current ratings for that provider. If you spot an error in the information about an individual or organization, please contact us and we will look into the matter.</p>
 
+<p>This project has been approved by the IRB.</p>
+
 <h2>Terms of Use </h2>
 <p>This app has been made for non-commerical, educational, and health communication purposes only.</p>
 
