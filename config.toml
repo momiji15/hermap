@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "HER Map"
 theme = "kube"
+googleAnalytics = "UA-137396239-1"
 description = "Health and Educational Resources for Women Veterans"
 Paginate = 4
 [Params]
