@@ -4,7 +4,7 @@ title = "Welcome to the HER Map Blog!"
 categories = ["general"]
 draft = false
 description = "Breaking ground with the first post!"
-weight = 10
+weight = 3
 +++
 
 # Welcome to HER Map!
