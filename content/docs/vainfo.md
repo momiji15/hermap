@@ -22,7 +22,7 @@ Based on this map, the average star ratings for the Facebook and Google star rat
 How can we tell how much the internet reviews are consistent with the government produced measures? Using the [Root Mean Square Error](https://en.wikipedia.org/wiki/Root-mean-square_deviation) gives us insights on how consistent one data source is with another. This measure is an established, well-accepted measure for consistency. The bigger the value, the less consistent the measures are with each other.
 
 <figure>
-  <img alt="Image" src="/img/kube/RMSE.PNG">
+  <img alt="Image" src="/img/kube/RMSE3.png">
 </figure>
 
 Among the 18 VISNs, VISNs 1,4, and 23 have the most consistent reviews across the three data sources while VISNs 21 and 22 had the least consistent reviews.
